@@ -4,6 +4,7 @@
 > Designed to be **modified, fabricated, and replicated**
 
 ---
+<img width="547" height="446" alt="image" src="https://github.com/user-attachments/assets/fc09c288-fe6c-4663-b80b-d8b5b4c78438" />
 
 ## ✦ Overview
 
@@ -28,6 +29,7 @@ Unlike static diagrams, the interchangeable components allow students to **physi
 ---
 
 ## ✦ System Design
+<img width="763" height="355" alt="image" src="https://github.com/user-attachments/assets/f9c41431-0cfd-496d-af2d-119687898815" />
 
 ### Core Principles
 
